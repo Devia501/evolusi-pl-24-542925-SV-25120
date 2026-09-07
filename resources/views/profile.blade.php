@@ -42,5 +42,14 @@
         <p><span>Kelas:</span> B2 - D-IV Teknologi Rekayasa Perangkat Lunak</p>
         <p><span>Program Studi:</span> Sekolah Vokasi, Universitas Gadjah Mada</p>
     </div>
+
+    <div>
+    <h2>Tentang Saya</h2>
+    <p>
+        Saya adalah mahasiswa Teknologi Rekayasa Perangkat Lunak
+        yang tertarik pada pengembangan aplikasi web dan software engineering.
+    </p>
+</div>
 </body>
 </html>
+
