@@ -13,5 +13,6 @@ class ProfilePageTest extends TestCase
         $response->assertStatus(200);
         $response->assertSee('Evolusi Perangkat Lunak');
         $response->assertSee('24/542925/SV/25120');
+        $response->assertSee('Tentang Saya');
     }
 }
